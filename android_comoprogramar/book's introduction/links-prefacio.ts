@@ -26,7 +26,7 @@ this.siteList= [
     { name: "Developer Documentation: Android", url: "http://developer.android.com/", comment: page13 + source code from the all the book content },
     { name: "Developer Documentation: Java", url: "http://oracle.com/technetwork/java/javase/downloads.index.html", comment: page14 + source code from the all the book content },
     { name: "Developer Documentation: Eclipse (Android Utility)", url: "http://oracle.com/technetwork/java/javase/downloads.index.html", comment: page14 + source code from the all the book content },
-    { name: "Android Studio: Download", url: "http://developer.android.com/sdk/installing/studio.html", comment: page14 + source code from the all the book content },
+    { name: "Android Studio: Download", url: "http://developer.android.com/sdk/installing/studio.html", comment: page14 + source code from the all the book content }
 ];
 
 

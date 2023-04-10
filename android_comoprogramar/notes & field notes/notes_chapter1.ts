@@ -52,31 +52,45 @@ Utilizado para: Ampliar e então reduzir a tela (por exemplo, ampliando texto e 
 * APIs mais utilizadas na época: Google Maps, Twitter e YouTube
 
 ** 
-Fonte de web services: Google Maps | Como é usada: ###
-Fonte de web services: Twitter | Como é usada: ###
-Fonte de web services: YouTube | Como é usada: ###
-Fonte de web services: Facebook | Como é usada: ###
-Fonte de web services: Instagram | Como é usada: ###
-Fonte de web services: Foursquare | Como é usada: ###
-Fonte de web services: Linkedin | Como é usada: ###
-Fonte de web services: Groupon | Como é usada: ###
-Fonte de web services: Netflix | Como é usada: ###
-Fonte de web services: eBay | Como é usada: ###
-Fonte de web services: Wikipedia | Como é usada: ###
-Fonte de web services: PayPal | Como é usada: ###
-Fonte de web services: Last.fm | Como é usada: ###
-Fonte de web services: Amazon eCommerce | Como é usada: ###
-Fonte de web services: Salesforce.com | Como é usada: ###
-Fonte de web services: Skype | Como é usada: ###
-Fonte de web services: Microsoft Bing | Como é usada: ###
-Fonte de web services: Flickr | Como é usada: ###
-Fonte de web services: Zillow | Como é usada: ###
-Fonte de web services: Yahoo Search | Como é usada: ###
-Fonte de web services: WeatherBug | Como é usada: ###
+Fonte de web services: Google Maps | Como é usada: Serviços de mapas
+Fonte de web services: Twitter | Como é usada: Microblog
+Fonte de web services: YouTube | Como é usada: Busca de vídeo
+Fonte de web services: Facebook | Como é usada: Rede social
+Fonte de web services: Instagram | Como é usada: Compartilhamento de fotos
+Fonte de web services: Foursquare | Como é usada: Check-in móvel
+Fonte de web services: Linkedin | Como é usada: Rede social para negócios
+Fonte de web services: Groupon | Como é usada: Comércio social
+Fonte de web services: Netflix | Como é usada: Aluguel de filmes
+Fonte de web services: eBay | Como é usada: Leilões pela internet
+Fonte de web services: Wikipedia | Como é usada: Enciclopédia colaborativa
+Fonte de web services: PayPal | Como é usada: Pagamentos
+Fonte de web services: Last.fm | Como é usada: Rádio na Internet
+Fonte de web services: Amazon eCommerce | Como é usada: Compra de livros e muito mais
+Fonte de web services: Salesforce.com | Como é usada: Gerenciamento CRM
+Fonte de web services: Skype | Como é usada: Telefonia pela Internet
+Fonte de web services: Microsoft Bing | Como é usada: Busca
+Fonte de web services: Flickr | Como é usada: Compartilhamento de fotos
+Fonte de web services: Zillow | Como é usada: Avaliação de imóveis
+Fonte de web services: Yahoo Search | Como é usada: Busca
+Fonte de web services: WeatherBug | Como é usada: Clima
+**
+*
 //
 
 // Página 7
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at ante lobortis, egestas tellus et, sollicitudin nibh. Curabitur pretium, mauris convallis porttitor eleifend, enim justo fermentum nisl, nec fermentum nisi sem et ipsum. Ut viverra magna rhoncus ipsum tempus, ac pulvinar enim semper. In vel finibus purus. Sed sagittis massa id purus molestie hendrerit. Ut vitae lacus lacinia, porttitor odio vitae, tempus elit. Pellentesque malesuada ipsum a sem tristique auctor. Sed non nunc lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In at sollicitudin massa. Cras cursus ultricies tellus, at ullamcorper elit facilisis pellentesque. Proin facilisis lobortis euismod.
+** 
+Nomenclatura dos respectivos Androids
+
+Android 1.5 - Cupcake
+Android 1.6 - Donut 
+Android 2.0 a 2.1 - Eclair
+Android 2.2 - Froyo
+Android 2.3 - Gingerbread
+Android 3.0 a 3.2 - Honeycomb
+Android 4.0 - Ice Cream Sandwich
+Android 4.1 a 4.3 -  Jelly Bean
+Android 4.4 - KitKat
+**
 //
 
 // Página 8

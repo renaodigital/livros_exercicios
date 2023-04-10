@@ -29,4 +29,10 @@ this.siteList= [
     { name: "Android Studio: Download", url: "http://developer.android.com/sdk/installing/studio.html", comment: page14 + source code from the all the book content }
 ];
 
+<p ng-repeat="site in siteList">Page 24 Content:<a href="site.url">{{site.name}}</a></p>
 
+this.siteList= [
+    { name: "Setting mobile to develop something", url: "http://developer.android.com/tools/device.html", comment: page13 + setting mobile to develop an AudioParamMap, testing },
+    { name: "Driver USB para desenvolver no Mobile", url: "http://developer.android.com/tootls/extras/oemusb", comment: page14 + usb drive to make the portability },
+    { name: "Newsletter da editora de e de produtores do livro", url: "http://www.deitel.com/newsletter/subscribe.html", comment: page14 + source code from the all the book content }
+];

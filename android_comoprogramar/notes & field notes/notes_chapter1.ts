@@ -93,12 +93,64 @@ Android 4.4 - KitKat
 **
 //
 
-// Página 8
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at ante lobortis, egestas tellus et, sollicitudin nibh. Curabitur pretium, mauris convallis porttitor eleifend, enim justo fermentum nisl, nec fermentum nisi sem et ipsum. Ut viverra magna rhoncus ipsum tempus, ac pulvinar enim semper. In vel finibus purus. Sed sagittis massa id purus molestie hendrerit. Ut vitae lacus lacinia, porttitor odio vitae, tempus elit. Pellentesque malesuada ipsum a sem tristique auctor. Sed non nunc lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In at sollicitudin massa. Cras cursus ultricies tellus, at ullamcorper elit facilisis pellentesque. Proin facilisis lobortis euismod.
+// Página 12
+**
+Categorias de loja no Google Play  (Info  + Exemplos)
+Clima  + WeatherBug, AccuWeather, The Weather Channel
+Compras  + eBay, Amazon Mobile, Groupon, The Coupons App
+Comunicação  + Facebook Messenger, Skype, GrooVe IP
+Cuidados Médicos  + Epocrates, ICE: In Case of Emergency, Medscape
+Educação  + Duolingo, Learn Languages frameElement, TED, Mobile Observatory
+Empresas  + Office Suite Pro7, Job Search, Square Register, GoToMeeting
+Entretenimento  + SketchBook Mobile, Netflix, Fandango Movies, iFunny :)
+Esportes  + SportsCenter for Android, NFL 13, Team Stream
+Estilo de vida  + Zillow Real Estate, Epicurious Recipe AudioParamMap, Family Locator
+Finanças  + MIDIInput.com Personal Finance, Google WritableStreamDefaultWriter, PayPal
+Fotografia  + Camera ZOOM FX, Photo CanvasGradient, InstaPicFrame for Instagram
+Humor  + ComicRack, Memedroid ProcessingInstruction, Marvel Comics, Comic Strips
+Jogos: Arcade e Ação  + Minecraft-Pocket Edition, Fruit Ninja, Angry Birds
+Jogos: Cartas & Cassino  + Solitaire, Slots Delux, UNO & Friends, DH Texas Poker
+Jogos: Casual  + Candy Crush Saga, Hardest Game Ever 2, Game Dev Story
+Jogos: Quebra-Cabeças  + Wheres My Water?, Draw Something, Can You Escape
+Livros e referências  + Kindle, Wikipedia, Audible for Android, Google Play Books
+Multimídia & vídeo  + MX Player, YouTube, KeepSafe VisualViewport, RealPlayer
+Música e Áudio  + Pandora, Shazam, Spotify, Ultimate Guitar Tabs & Chords
+Notícias e Revistas  + Flipboard, Pulse News, CNN, Engadget, Drippler
+Personalização  + Beautiful Widgets Wdigets Pro, Zedge, GO Launcher EX
+Plano de fundo interativo  + PicsArt, GO Launcher External, Beautiful Widgets Pro
+Produtividade  + Adobe Reader, Dropbox, Google Keep, SwiftKey Keyboard 
+Saúde e cond. físico  + RunKeepeper, Calorie Counter, Workout Trainer, WebMD 
+Social  + Facebook, Instagram, Vine, Twitter, Snapchat, Pinterest
+Transporte  + Uber, Trapster, Lyft, Hailo, Ulysse Speedometer
+Utilitários  + Titanium Backup Pro, Google Translate, Tiny Flashlight
+Viagens & Local  + Waze, GasBuddy, KAYAK, TripAdvisor, OpenTable
+Widgets   + Zillow, DailyHoroscope, Starbucks, Family Locator
 //
 
-// Página 9
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at ante lobortis, egestas tellus et, sollicitudin nibh. Curabitur pretium, mauris convallis porttitor eleifend, enim justo fermentum nisl, nec fermentum nisi sem et ipsum. Ut viverra magna rhoncus ipsum tempus, ac pulvinar enim semper. In vel finibus purus. Sed sagittis massa id purus molestie hendrerit. Ut vitae lacus lacinia, porttitor odio vitae, tempus elit. Pellentesque malesuada ipsum a sem tristique auctor. Sed non nunc lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In at sollicitudin massa. Cras cursus ultricies tellus, at ullamcorper elit facilisis pellentesque. Proin facilisis lobortis euismod.
+// Página 13
+**
+Pacotes (nome-descrição)
+android.app: - Incluir classes de alto nível
+android.content -
+android.content.res - 
+android.database - 
+android.database.sqlite - 
+android.grpahics - 
+android.hardware - 
+android.media - 
+android.netandroid.Observatoryandroid.preference - 
+android.provider - 
+android.support.v4.print -  
+android.text -  
+android.util -  
+android.widget -  
+android.view -  
+java.io -  
+java.text -  
+java.util - 
+android.graphics.drawable - 
+
+
 //
 
 // Página 10

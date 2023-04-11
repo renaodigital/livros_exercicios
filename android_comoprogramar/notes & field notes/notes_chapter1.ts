@@ -130,27 +130,26 @@ Widgets   + Zillow, DailyHoroscope, Starbucks, Family Locator
 // Página 13
 **
 Pacotes (nome-descrição)
-android.app: - Incluir classes de alto nível
-android.content -
-android.content.res - 
-android.database - 
-android.database.sqlite - 
-android.grpahics - 
-android.hardware - 
-android.media - 
-android.netandroid.Observatoryandroid.preference - 
-android.provider - 
-android.support.v4.print -  
-android.text -  
-android.util -  
-android.widget -  
-android.view -  
-java.io -  
-java.text -  
-java.util - 
-android.graphics.drawable - 
-
-
+android.app: - Incluir classes de alto nível de aplicativos Android.
+android.content - Acesso e publicação de dados em um dispositivo.
+android.content.res - Classes para acessar recursos de aplicativo (por exemplo, mídia, cores, desenhos, etc.)
+                    e informações de configuração de dispositivo que afetam o comportamento dos aplicativos
+android.database -  Manipulação de dados retornados pelo provedor de conteúdo.
+android.database.sqlite - Gerenciamento de bando de dados SQLite para bancos de dados privados
+android.graphics - Ferramentas gráficas usadas para desenhar na tela
+android.hardware - Suporte para hardware de dispositivo
+android.media - Classes apra manipular interfaces de áudio e vídeo
+android.net - Classes de acesso à rede
+android.provider - Acesso a provedores de conteúdo Android
+android.support.v4.print -  Recursos da Android Support Library para usar o framework de impressão do Android 4.4
+android.text -  Renderização e monitoramento de texto no dispositivo
+android.util -  Métodos utilitários e utilitários XML
+android.widget - Classes de interface do usuário para widgets
+android.view -  Classes de interface do usuário para layout e interações do usuário
+java.io -  Streaming, serialização e acesso ao sistema de arquivo de recursos de entrada e saída
+java.text -  Classes de formatação de texto
+java.util - Classes utilitárias
+android.graphics.drawable - Classes para elementos somente de exibição
 //
 
 // Página 10

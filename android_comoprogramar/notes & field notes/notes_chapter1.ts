@@ -180,3 +180,15 @@ Determinar a carga da bateria ou estado de carga de energia
 Determinar a inserção/ejeção do Cartão SD  
 Sensores (acelerômetro, barômetro, bússola, sensor de luz, sensor de proximidade)
 //
+
+// Página 16
+
+//
+
+// Página 17
+
+//
+
+// Página 18
+
+//

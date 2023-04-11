@@ -152,6 +152,31 @@ java.util - Classes utilitárias
 android.graphics.drawable - Classes para elementos somente de exibição
 //
 
-// Página 10
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at ante lobortis, egestas tellus et, sollicitudin nibh. Curabitur pretium, mauris convallis porttitor eleifend, enim justo fermentum nisl, nec fermentum nisi sem et ipsum. Ut viverra magna rhoncus ipsum tempus, ac pulvinar enim semper. In vel finibus purus. Sed sagittis massa id purus molestie hendrerit. Ut vitae lacus lacinia, porttitor odio vitae, tempus elit. Pellentesque malesuada ipsum a sem tristique auctor. Sed non nunc lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In at sollicitudin massa. Cras cursus ultricies tellus, at ullamcorper elit facilisis pellentesque. Proin facilisis lobortis euismod.
+// Página 15
+* Link Emulador de Android: https://code.google.com/p/opneintens/wiki/SensorSimulator
+** Figura 1.12 / 1.13 
+Controles de hardware do Android no emulador (para ver todos os controles, acessar: http://developer.android.com/tools/help/emulator.html)
+Back (voltar) - Esc
+Botão call/dial (chamar/discar) - F3
+Camera (câmera) - Ctrl-KEYPAD_5, Ctrl-F3
+Botão End Call (finalizar chamada) - F4
+Home (início) - Botão Home
+Menu (tecla programável esquerda) - F2 ou botão Page Up
+Botão Power (ligar/desligar) - F7
+Search (pesquisar) - F5
+* Tecla programável direita) - Shift-F2 ou botão Page Down
+Girar para a orientação anterior - KEYPAD_7, Ctrl-F11
+Girar para a próxima orientação - KEYPAD_9, Ctrl-F12
+Ativar/desativar rede celular - F8 
+Botão Volume Up (Aumentar Volume) - KEYPAD_PLUS, Ctrl-F5
+Botão Volume Down (Diminuir Volume) - KEYPAD_MINUS, Ctrl-F6
+** Não disponíveis 
+Fazer ou receber ligações telefônicas reais (o emulador só permite chamadas simuladas)
+Bluetooth
+Conexões USB
+Fones de ouvido ligados ao dispositivo
+Determinar estado de conexão do telefone
+Determinar a carga da bateria ou estado de carga de energia
+Determinar a inserção/ejeção do Cartão SD  
+Sensores (acelerômetro, barômetro, bússola, sensor de luz, sensor de proximidade)
 //

@@ -181,8 +181,66 @@ Determinar a inserção/ejeção do Cartão SD
 Sensores (acelerômetro, barômetro, bússola, sensor de luz, sensor de proximidade)
 //
 
-// Página 16
+// Página 31, 32 & 33 [início]
+**
+Características de excelentes aplicativos
+JOGOS EXCELENTES
+- Interessantes e divertidos
+- Desafiadores
+- Níveis progressivos de dificuldade
+- Mostram sua pontuação e utilizam painéis de classificação para registrar as pontuações mais altas
+- Fornecem retorno sonoro e visualViewport- Oferecem versões para um jogador, para vários jogadores e em rede 
+- Oferecem versões para um jogador, para vários jogadores em rede 
+- Possuem animações de alta qualidade 
+- Descarregam código de entrada/saída e que utilizam muito poder de processamento para sperar threads de execução a fim de melhorar os tempos de resposta da interface e desempenho do aplicativo
+- Inovam com tecnologia de realidade aumentada, aprimorando um ambiente do mundo real com compnentes virtuais: isso é particularmente popular em aplicativos baseados em vídeo 
+UTILITÁRIOS INTERESSANTES
+- Fornecem funcinalidade útil e informações precisas
+- Aumentam a produtiviidade pessoal e empresarial
+- Tornam as tarefas mais convenientes (por exemplo, mantendo umas lista de tarefas, gerenciando despesas)
+- Tornam o usuário masi bem informado
+- Fornecem informações atuais (por exemplo, a cotação mais recente de ações, notícias, alertas de tempestades fortes, atualizações do tráfego)
+- Utilizam servços baseados na localidade para fornecer serviços locais (por exemplo, cupons de empresas locais, melhor preços de combustíveis, entrega de alimentos)
+CARACTERÍSTICAS GERAIS   
+- Em dia com os recursos mais recentes do Android, mas compatíveis com várias versões de Android para dar suporte ao maior público possível
+- Funcionam corretamente
+- Erros são corrigidos prontamente
+- Seguem as convenções padrão para interface gráfica de usuário de aplicativos Android
+- São ativados rapidamente
+- São rápidos nas respostas
+- Não exigem memória, largura de banda ou carga da bateria demais
+- São originais e criativos
+- Duradouros - algo que seus usuários utilizem regularmente
+- Usa ícones de qualidade profissional que aparecem no Google Play e no dispositivo do usuário
+- Usam elementos gráficos, imagens, animações, áudio e vídeo de qualidade
+- São intuitivos e fáceis de usar (não exigem documentação de ajuda extensa)
+- Acessíveis a pessoas deficientes (http://developer.android.com/guide/topics/ui/acessibility/index.html)
+- Dão aos usuários motivos e um significado para contar a outros sobre seu aplicativo (por exemplo, você pode dar aos usuários a opção de postar suas pontuações no Facebook ou no Twitter)
+- Fornecem conteúdo adicional para aplicativos baseados em conteúdo (por exemplo, níveis de jogo, artigos, quebra-cabeças)
+Adaptadors ao idioma de cada país em que o aplicativo é ofereceido (por exemplo, traduzir os arquivos de texto e de áudio do aplicativo, usar diferentes elementos gráficos de acordo com a localidade, etc).
+- Oferecem melhor desempenho, recursos e facilidade de uso do que os aplicativos concorrentes
+- Tiram proveito dos recursos internos do dispositivo
+- Não solicitam permissões em excesso
+- São projetador para serem executados da melhor maneira possíveis em uma ampla variedade de dispositivos Android
+- Preparados para o futuro em relação a novos dispositivos de hardware - especifique os recursos de hardware exatos utilizados por seu aplicativo para que o Google Play possa filtrá-lo e exi-lo na loja apenas para dispositivos compatíveis (http://android-developers.blogspot.com/2010/06/future-proofing-your-app.html)
 
+**
+Recursos para desenvolvimento com Android (pontos importantes em documentação)
+App Components  + http://developer.android.com/guide/components/index.html
+Using the Android Emulator  + https://developer.android.com/tools/devices/emulator.html
+Package Index  + http://developer.android.com/reference/packages.html
+Class Index  + http://developer.android.com/reference/classes.html
+Android Design  + http://developer.android.com/design/index.html
+Data Backup  + http://developer.android.com/guide/topics/data/backup.html
+Security Tips  + http://developer.android.com/training/articles/security-tips.html
+Getting Started with Android Studio  + http://developer.android.com/sdk/installing/studio.html
+Debugging  + http://developer.android.com/tools/debugging/index.html
+Tools Help  + http://developer.android.com/tools/help/index.html
+Kepping Your App Responsive  + http://developer.android.com/training/articles/perf-anr.html
+Launch Checklist (for Google Play)  + http://developer.android.com/distribute/googleplay/publish/preparing.html
+Get Started with Publishing  + http://developer.android.com/distribute/googleplay/publish/register.html
+Managing Your App's Memory  + http://developer.android.com/training/articles/memory.html
+Google Play Developer Distribution Agreement  + http://play.google.com/about/developer-distribution-agreement.html
 //
 
 // Página 17

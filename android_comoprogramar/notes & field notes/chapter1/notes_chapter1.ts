@@ -241,6 +241,28 @@ Launch Checklist (for Google Play)  + http://developer.android.com/distribute/go
 Get Started with Publishing  + http://developer.android.com/distribute/googleplay/publish/register.html
 Managing Your App's Memory  + http://developer.android.com/training/articles/memory.html
 Google Play Developer Distribution Agreement  + http://play.google.com/about/developer-distribution-agreement.html
+
+**
+Grupos de discussão e fóruns sobre Android
+Android Discuss: android-discuss | android-discuss-susbscribe@googlegroups.com 
+Stack Overflow: http://stackoverflow.com/questions/tagged/android 
+Android Developers: https://groups.google.com/forum/?fromgroups#!forum/android/developers
+Android Forums: http://androidforums.com
+
+**
+Dicas, vídeos e recursos para desenvolvimento com Android
+Exemplos de aplicativos Android do Google: http://code.google.com/p/apps-for-android
+Artigo da O'Reilly, "Ten Tips for Android Application Development": http://answers.oreilly.com/topic/862-ten-tips-for-android-application-development/
+Site Bright Hub para dicas sobre programação com Android e guias práticos: http://brighthub.com/mobile/google-android.aspx
+O blog Android Developers: http://developer.sprint.com/site/global/develop/mobile_platforms/android/android.jsp
+O programa Sprint Application Developers: http://developer.sprint.com/site/global/develop/mobile_platforms/android/android.jsp
+Developer Center for Android do HTC: http://htcdev.com/
+O site de desenvolvimento com Android da Motorola: http://developer.motorola.com/
+Principais usuários de Android no Stack Overflow: http://stackoverflow.com/tags/android/topusers
+Boletim semanal AndroidDev: http://androiddevweekly.com/
+Blog Codependent de Chet Haase: http://graphics.-geek.blogspot.com/
+Blog sobre Android de Cyril Mottier: http://cyrilmottier.com/
+
 //
 
 // Página 17

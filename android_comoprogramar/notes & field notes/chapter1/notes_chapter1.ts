@@ -260,15 +260,11 @@ Developer Center for Android do HTC: http://htcdev.com/
 O site de desenvolvimento com Android da Motorola: http://developer.motorola.com/
 Principais usuários de Android no Stack Overflow: http://stackoverflow.com/tags/android/topusers
 Boletim semanal AndroidDev: http://androiddevweekly.com/
-Blog Codependent de Chet Haase: http://graphics.-geek.blogspot.com/
+Blog Codependent de Chet Haase: http://graphics-geek.blogspot.com/
 Blog sobre Android de Cyril Mottier: http://cyrilmottier.com/
-
-//
-
-// Página 17
-
-//
-
-// Página 18
-
+Blog sobre Android de Romain Guy: http://ww.curous-creature.org/category/android/
+Canal no YouTube para desenvolvedores de Android: http://www.youtube.com/user/androiddevelopers
+Listas de reprodução de vídeo sobre Android: http://developer.android.com/develop/index.html
+O que há de novo em ferramentas para desenvolvedor de Android: http://www.youtube.com/watch?v=1mv1dTnhLH4
+Vídeos da sessão Google I/O 2013 Developer Conference: http://developers.google.com/events/io/sessions
 //
